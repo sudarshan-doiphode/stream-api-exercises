@@ -4,8 +4,8 @@
 
 ### Refer Interview Question on Stream API:
 
-https://www.w3resource.com/java-exercises/stream/index.php
-https://www.codingninjas.com/studio/library/stream-api-interview-questions
+* https://www.w3resource.com/java-exercises/stream/index.php
+* https://www.codingninjas.com/studio/library/stream-api-interview-questions
 
 ### Questions Solved in this Repository ➡️
 
