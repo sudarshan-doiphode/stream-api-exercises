@@ -2,8 +2,8 @@
 #### This repository covers most of the interview questions solved on stream api. You can refer below questions and try it by yourself, If help needed checkout solutions 😊
 
 ### Refer Interview Question on Stream API:
-https://www.w3resource.com/java-exercises/stream/index.php
-https://www.codingninjas.com/studio/library/stream-api-interview-questions
+* https://www.w3resource.com/java-exercises/stream/index.php
+* https://www.codingninjas.com/studio/library/stream-api-interview-questions
 
 ### Questions Solved in this Repository ➡️
 
