@@ -20,4 +20,4 @@
 | Exercise - 7 |        Find the maximum and minimum values in a list of integers using streams.        |
 | Exercise - 8 |   Find the second smallest and largest elements in a list of integers using streams.   |
 | Exercise - 9 |              Find the first element of a Stream in Java (Geeks for Geeks)              |
-
+|  Exercise -10|                                                                                        |
