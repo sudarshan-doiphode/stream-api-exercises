@@ -12,7 +12,8 @@ public class Exercise3 {
                 .filter(n -> n % 2 == 0)
                 .sum();
 
-        final int oddSum = nums.stream().mapToInt(Integer::intValue)
+        final int oddSum = nums.stream()
+                .mapToInt(Integer::intValue)
                 .filter(n -> n % 2 != 0)
                 .sum();
 
