@@ -22,3 +22,10 @@
 | Exercise - 9 |              Find the first element of a Stream in Java (Geeks for Geeks)               |
 | Exercise -10 | Given a list of strings, count the number of strings that have a length greater than 5. |
 | Exercise -11 |             Find list of students whose first name starts with alphabet A.              |
+| Exercise -12 |         Find list of student's first name whose first name ends with alphabet u         |
+| Exercise -13 |                      Find number of students for each department.                       |
+| Exercise -14 |                       Find the max age & highest rank of student.                       |
+| Exercise -15 |                    Find the average age of male and female students.                    |
+| Exercise -16 |              Find the department who is having maximum number of students.              |
+| Exercise -17 |            Find the Students who stays in fbd and sort them by their names.             |
+| Exercise -18 |                        Find the highest rank in each department                         |
